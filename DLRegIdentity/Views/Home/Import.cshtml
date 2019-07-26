@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Import";
+}
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script>
+    $.get("/FB2SQL/ExecuteFB2SQL", function (data) {
+        alert(data);
+        window.location.href = "/";
+    });
+</script>

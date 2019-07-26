@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FB2SQL", "FB2SQL\FB2SQL.csproj", "{16A0FAD6-796D-4D26-B778-70445ED01C80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DLRegIdentity", "DLRegIdentity\DLRegIdentity.csproj", "{3EEF9161-50D7-4FF4-B2D4-D92B6108D46B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A0FAD6-796D-4D26-B778-70445ED01C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A0FAD6-796D-4D26-B778-70445ED01C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A0FAD6-796D-4D26-B778-70445ED01C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A0FAD6-796D-4D26-B778-70445ED01C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EEF9161-50D7-4FF4-B2D4-D92B6108D46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEF9161-50D7-4FF4-B2D4-D92B6108D46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEF9161-50D7-4FF4-B2D4-D92B6108D46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEF9161-50D7-4FF4-B2D4-D92B6108D46B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B807BEB7-FB6D-412B-B60C-8E730DCF41E6}
+	EndGlobalSection
+EndGlobal
